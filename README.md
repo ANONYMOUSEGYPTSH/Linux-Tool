@@ -1,5 +1,5 @@
 # Linux-Tool
-## Author: https://github.com/ANONYMOUSEGYPTSH/LinuxTool
+## Author: https://github.com/ANONYMOUSEGYPTSH/Linux-Tool
 ### Read the license before using any part from this code :) 
 ## Legal disclaimer:
 
