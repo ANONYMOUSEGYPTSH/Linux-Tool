@@ -5,7 +5,7 @@
 ### Read the license before using any part from this code :) 
 ## Legal disclaimer:
 
-Usage of ANONYMOUSISLAMICLinux-Tool v1.0 for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
+Usage of ANONYMOUSISLAMIC Linux-Tool v1.0 for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
 ### Usage:
 ```
